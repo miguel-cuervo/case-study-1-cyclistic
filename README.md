@@ -14,5 +14,5 @@ A continuación les presento una lista de proyectos completados.
 ### 2. Próximamente...
 
 ## Contacto 
-* **LinkedIn** https://www.linkedin.com/in/miguel-a-cuervo-8388aa201/
-* **Correo** mcuervo9@outlook.com 
+* **LinkedIn:** https://www.linkedin.com/in/miguel-a-cuervo-8388aa201/
+* **Correo:** mcuervo9@outlook.com 
