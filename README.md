@@ -5,7 +5,7 @@
 * **Proceso:** Se buscaba seguir los 6 pasos fundamentales en el análisis de datos: Ask (preguntar), Prepare (preparar), Process (procesar), Analyze (analizar) y Act (actuar). Se utilizó el lenguaje R para combinar, limpiar y analizar más de 750,000 viajes, calculando la diferencia entre duración de viajes al igual que concentración diaria por semana.
 * **Herramientas Usadas:** R (principalmente 'tiddyverse', 'lubridate' y 'ggplot2') y Gemini Pro como apoyo para correcta sintaxis.
 * **Resultados:** El análisis reveló que los usuarios ocasionales tienen a realizar viajes más largos, casi 4 veces más en promedio que los miembros. Además, cuentan con una concentración de viajes más elevada durante los fines de semana, a comparación de los miembros que mantienen un flujo elevado constante durante todos los días de la semana.
-* **Ver análisis completo y recomendaciones**
+* **Ver análisis completo y recomendaciones en https://miguel-cuervo.github.io/case-study-1-cyclistic/**
   
 ## Contacto 
 * **LinkedIn:** https://www.linkedin.com/in/miguel-a-cuervo-8388aa201/
